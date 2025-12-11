@@ -56,9 +56,10 @@ Follow these steps to set up NS Coffee locally using XAMPP:
      ```php
      define("url", "http://localhost/RH-coffee-shop");
     define("ADMINURL", "http://localhost/RH-coffee-shop/admin-panel");
-     ```
-
-7. Start the Development Server:
+   ```
+      define("url", "http://localhost/RH-coffee-shop/admin.php");
+     
+8. Start the Development Server:
    - Open XAMPP and start the Apache and MySQL services (if not already running).
    - Launch a web browser and visit `http://localhost/coffee-shop-management-system` to access the project.
 
@@ -157,3 +158,4 @@ If you'd like to contribute, please follow these steps:
 [Ratul Hossain](https://github.com/Simanto5858)
 
 Email: [simanto@gmail.com]
+
