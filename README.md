@@ -7,11 +7,11 @@ The Coffee Shop Management System is a web-based application designed to streaml
 
 ## Demo
 
-Experience Ns Coffee firsthand with a live website available at [Website Link](https://rh-coffee-shop.rf.gd/).
+Experience RH Coffee firsthand with a live website available at [Website Link](https://rh-coffee-shop.rf.gd/).
 
 ## Installation
 
-Follow these steps to set up NS Coffee locally using XAMPP:
+Follow these steps to set up RH Coffee locally using XAMPP:
 
 1. Install XAMPP:
 
